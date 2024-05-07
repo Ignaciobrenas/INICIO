@@ -3,8 +3,8 @@
   <h1>👨Ignacio Breñas</h1>
 
 
-<h1>🎈My skills</h1>
-<h3>💻Programming languages <----> Lenguajes de Programación</h3>
+<h1>🎈SKILLS</h1>
+<h3>💻 Lenguajes de Programación</h3>
 <a href='https://github.com/Ignaciobrenas' target="_blank"><img alt='html5' src='https://img.shields.io/badge/HTML5-100000?style=for-the-badge&logo=html5&logoColor=FFFFFF&labelColor=E34F26&color=E34F26'/></a>
 <a href='https://github.com/Ignaciobrenas' target="_blank"><img alt='css3' src='https://img.shields.io/badge/CSS-100000?style=for-the-badge&logo=css3&logoColor=FFFFFF&labelColor=1572B6&color=1572B6'/></a>
 <a href='https://github.com/Ignaciobrenas' target="_blank"><img alt='javascript' src='https://img.shields.io/badge/Javascript-100000?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=F7DF1E&color=F7DF1E'/></a>
@@ -23,7 +23,7 @@
 <a href='https://github.com/Ignaciobrenas' target="_blank"><img alt='github' src='https://img.shields.io/badge/github-100000?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=181717&color=181717'/></a>
 <a href='https://github.com/Ignaciobrenas' target="_blank"><img alt='xampp' src='https://img.shields.io/badge/xampp-100000?style=for-the-badge&logo=xampp&logoColor=FFFFFF&labelColor=FB7A24&color=FB7A24'/></a>
 
-<h3>🎯Others <----> Otros</h3>
+<h3>🎯Otros</h3>
 <a href='https://github.com/Ignaciobrenas' target="_blank"><img alt='mysql' src='https://img.shields.io/badge/mysql-100000?style=for-the-badge&logo=mysql&logoColor=FFFFFF&labelColor=4479A1&color=4479A1'/></a>
 <a href='https://github.com/Ignaciobrenas' target="_blank"><img alt='Vercel' src='https://img.shields.io/badge/VERCEL-100000?style=for-the-badge&logo=Vercel&logoColor=FFFFFF&labelColor=000000&color=000000'/></a>
 <a href='https://github.com/Ignaciobrenas' target="_blank"><img alt='microsoftword' src='https://img.shields.io/badge/microsoft_word-100000?style=for-the-badge&logo=microsoftword&logoColor=FFFFFF&labelColor=2B579A&color=2B579A'/></a>
@@ -31,7 +31,7 @@
 <a href='https://github.com/Ignaciobrenas' target="_blank"><img alt='microsoftoutlook' src='https://img.shields.io/badge/microsoft_outlook-100000?style=for-the-badge&logo=microsoftoutlook&logoColor=FFFFFF&labelColor=0078D4&color=0078D4'/></a>
 <a href='https://github.com/Ignaciobrenas' target="_blank"><img alt='microsoftpowerpoint' src='https://img.shields.io/badge/microsoft_powerpoint-100000?style=for-the-badge&logo=microsoftpowerpoint&logoColor=FFFFFF&labelColor=B7472A&color=B7472A'/></a>
 
-<h1>📨Connect with me <----> Ponte en contacto conmigo/h1>
+<h1>📨Ponte en contacto conmigo </h1>
 <a href='mailto:juanmagalan2007@gmail.com' target="_blank"><img alt='gmail' src='https://img.shields.io/badge/gmail-100000?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=EA4335&color=EA4335'/></a>
 <a href='https://www.linkedin.com/in/juanma-gape?original_referer=' target="_blank"><img alt='linkedin' src='https://img.shields.io/badge/linkedin-100000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=0A66C2&color=0A66C2'/></a>
 </div>
